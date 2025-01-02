@@ -11,12 +11,12 @@ class Player(models.Model):
 
     cur_internal_health = 10
     cur_num_defense_units = 0
-    cur_num_defense_units = 0
+    cur_num_offense_units = 0
     
     energy = models.IntegerField()
     tower_type = models.IntegerField()
-    d_bench = [EMPTY_UNIT, EMPTY_UNIT]
-    o_bench = [EMPTY_UNIT, EMPTY_UNIT, EMPTY_UNIT, EMPTY_UNIT]
+    d_bench = [] #defense bench (max 2 units)
+    o_bench = [] #offense bench (max 4 units)
 
     def __str__(self):
         return self.username
@@ -79,7 +79,8 @@ class Unit(Card):
         if self.ranged == False:
             self.take_damage(target.get_power())
 
-    #def kill_self():
+    #def kill_self(self):
+    
 
     #def obliderate_self():
     
