@@ -1,0 +1,8 @@
+So this is my ideas page for Andromeda. We're going in a completely different direction from before. Going to skip the web app development and get straight into the actual program.
+
+This is also going to be a solo player card game now. Scraping the pvp aspect. Maybe that can come later.
+
+
+Premise:
+
+Mercury has been the solar systems prison planet due to the extreme conditions of the planet (extreme    climate, lack of an atmosphere, meteors, and even magnetic tornadoes). However, this system has been     abused by those in power. Many people have been wrongly imprisoned simply for the benefit of those in    authority. You a descendent of these prisoners have heard stories of the wonders beyond mercury. After   after your parents pass, you seek to see these wonders they spoke of. As you attempt to escape mercury   you are presented with many challenges. Although this prison has been abused, sending many innocent      people to damnation, that wasn't always the case. Many of those here are indeed dangerous. You'll have to make your way past them before you can leave this planet.  
